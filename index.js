@@ -1,10 +1,11 @@
 var animal = 'cat'
+var animal = 'dog'
 
 function myAnimal() {
   return animal
 }
 
-var animal = 'cat'
+
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
