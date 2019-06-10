@@ -1,4 +1,4 @@
-var animal = 'cat'
+var animal1 = 'cat'
 var animal = 'dog'
 
 function myAnimal() {
@@ -12,7 +12,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   
-  return animal
+  return animal1
 }
 
 function add2(n) {
